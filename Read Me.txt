@@ -1,0 +1,21 @@
+***** SIPES *****
+==========================================================================================
+Sistem Informasi Pengarispan Surat Masuk dan Keluar Pada Dinas Perhubungan Kota Denpasar
+==========================================================================================
+PHP Version : ^7.2.6
+XAMPP Verison : 7.2.6
+===============================
+Role : Super Admin
+Username : super
+Password : super
+
+Role : Admin
+Username : admin
+Password : admin
+
+Role : Kepala Bidang
+Username : kepbid
+Password : kepbid
+===============================
+Copyright. iCON Dev. 2019
+===============================
